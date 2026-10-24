@@ -1,2 +1,19 @@
-# QIXINGCY.github.io
-Personal academic website · Artificial Intelligence · Research &amp; Engineering
+# Zongzhen Li · QIXINGCY
+
+人工智能科研风格的静态个人网站，发布地址：https://qixingcy.github.io/
+
+## 内容与设计
+
+- 深蓝、青色、冰蓝配色，支持深浅主题切换。
+- 自绘球形网络动画，可暂停，遵循系统减少动态效果偏好。
+- 公开项目展示与类别筛选；手机、平板和桌面响应式布局。
+- 无构建依赖、无第三方脚本、无分析追踪。
+
+## 更新
+
+直接编辑根目录 `index.html`，提交到 `main`。GitHub Pages 从 `main` 的根目录部署。
+修改个人介绍：搜索 `id="about"`；修改项目：搜索 `class="project"`。
+
+个人姓名、账号及仓库链接来自 GitHub 公开资料。学校、具体学位状态、论文、荣誉和邮箱尚未补充，因此未写入网站。研究态度与探索问题为主页编辑文案，不代表已取得的科研成果。
+
+项目说明仅按公开目录与工程文件概括，未声称模型性能或论文成果。RiPPFinder 的部分文件使用 Git LFS，未读取其真实大文件内容。
